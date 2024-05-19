@@ -47,3 +47,6 @@ To run this script, you need to have Python installed on your machine. This scri
 
 3- The function will return a dictionary mapping each device type to its URL.
 
+## When you run the steps correctly, the result you should see;
+
+![1](https://github.com/enesoncu/URL-Extractor/assets/142101802/026e722e-3e3d-4e35-a96c-0ef5d19318ac)
